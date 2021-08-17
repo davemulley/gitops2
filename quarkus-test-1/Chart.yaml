@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: quarkus-test-1
+description: Chart to configure ArgoCD with the quarkus-test-1 project and its applications
